@@ -12,19 +12,23 @@
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-            "required": true
+            "required": true,
+            "value": "28589332"
         },
         "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-            "required": true
+            "required": true,
+            "value": "e038e76d9a6226da0bb2ae6bce2bf0a0"
         },
         "BOT_TOKEN": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-            "required": true
+            "required": true,
+            "value": "6606558647:AAHMzGyv4W-CCwPFPfD5-2tJihv1RfiXsuk"
         },
         "STRING_SESSION": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑰𝑫",
-            "required": true
+            "required": true,
+            "value": "BQG0PRQAvI10ImnJMzChaLoTRWaeNGdZiAVjvfV9JP4-JkAFdVI6MTHhWNhJkBdF6qHGwyStmT-rctoEt2Xp-rWzJpKHDwZyi0yC-XNXjBNTjEAkEKgRzszxQLsQzlrhZKTaMzCzRcMEiauzdiHX0CBxL5kXqlnP8HXIS3SEaQSj6rDfuofIuZOBpcmuEiT5OfUWxMgDBnCSkTNsGwe0kFgcEq0DRRp_aHU3PbGZdriL9K_cBbVN5JARILosNge1v0bMm-uCQscISqjHIbeoAjJwj6MSldlB7vG35qdebFTDGjXZXThEmyzdtaq58tskB91WKAztcw7g5qsLoKKdQ59YoaBELAAAAAFQ1PPaAA"
         },
         "DURATION_LIMIT": {
             "description": "𝑺𝒐𝒏𝒈 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒎𝒊𝒕 (𝑴𝒊𝒏𝒖𝒕𝒆𝒔)",
@@ -33,15 +37,18 @@
         },
         "MONGO_DB_URL": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝑴𝒐𝒏𝒈𝒐 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝑼𝑹𝑳",
-            "required": true
+            "required": true,
+            "value": "mongodb+srv://mrtocsi7:Ankityadav7@cluster0.w9gulon.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "OWNER_ID": {
             "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
-            "required": true
+            "required": true,
+            "value": "5651100634"
         },
         "LOG_GROUP_ID": {
             "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
-            "required": true
+            "required": true,
+            "value": "-1002022388505"
         },
         "MUSIC_BOT_NAME": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 (𝑼𝒔𝒆 𝑵𝒐𝒓𝒎𝒂𝒍 𝑭𝒐𝒏𝒕)",
